@@ -110,7 +110,7 @@ We welcome contributions from everyone! If you would like to contribute, please 
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out to me on [Instagram](https://instagram.com/davenjebeh) or via [Email](mailto:davenwoodys@gmail.com).
+If you have any questions or suggestions, feel free to reach out to me on [Instagram](https://instagram.com/davenjebeh) or via [Email](mailto:davenswoody@gmail.com).
 
 ---
  #### GitHub Stats Card
