@@ -12,8 +12,6 @@ AD Tool is a powerful self-bot for Discord designed to streamline and automate v
 ## Features
 
 - **Automated Message Sending**: Schedule and send messages to specific channels automatically.
-- **Member Management**: Easily add, remove, or manage server members.
-- **Custom Commands**: Create custom commands to enhance server interaction.
 - **User -Friendly Interface**: Intuitive design for seamless usage.
 
 ## Requirements
