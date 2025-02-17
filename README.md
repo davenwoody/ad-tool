@@ -1,8 +1,10 @@
+<div align="center">
+
 <img src="https://raw.githubusercontent.com/davenwoody/ad-tool/refs/heads/main/screenshot/Screenshot_2025_0217_235823.jpg" alt="logo" width="auto" height="auto" />
 <h1> AD Tool - Discord Self Bot </h1>
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg) </div>
 
 ## Description
 
