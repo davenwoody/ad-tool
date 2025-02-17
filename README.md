@@ -1,4 +1,4 @@
-## AutoAd.py
+# Auto Ad Tool
 ## ⛔ Project abandoned, feel free to make PRs
 ### Warning: This is a selfbot and is against discord's TOS
 
