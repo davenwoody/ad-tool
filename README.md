@@ -108,13 +108,9 @@ We welcome contributions from everyone! If you would like to contribute, please 
 4. Push to your branch (`git push origin feature-xyz`).
 5. Create a Pull Request.
 
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for more details.
-
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out to me on [Twitter](https://twitter.com/username) or via [Email](mailto:email@example.com).
+If you have any questions or suggestions, feel free to reach out to me on [Instagram](https://instagram.com/davenjebeh) or via [Email](mailto:davenwoodys@gmail.com).
 
 ---
  #### GitHub Stats Card
