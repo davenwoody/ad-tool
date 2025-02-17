@@ -1,6 +1,6 @@
 
-
-# AD Tool - Discord Self Bot
+<img src="screenshot/thumb.jpg" alt="logo" width="200" height="auto" />
+<h1> AD Tool - Discord Self Bot </h1>
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)
@@ -11,8 +11,8 @@ AD Tool is a powerful self-bot for Discord designed to streamline and automate v
 
 ## Features
 
-- **Automated Message Sending**: Schedule and send messages to specific channels automatically.
-- **User-Friendly Interface**: Intuitive design for seamless usage.
+- **Automated Message Sending** : Schedule and send messages to specific channels automatically.
+- **User-Friendly Interface** : Intuitive design for seamless usage.
 
 ## Requirements
 
@@ -117,4 +117,22 @@ If you have any questions or suggestions, feel free to reach out to me on [Insta
 
 ---
 
-Thank you for using AD Tool! We hope it enhances your Discord experience!
+ #### GitHub Stats Card
+
+<a href="https://github.com/davenwoody" target="blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=davenwoody&show_icons=true" width="320" alt="davenstats"/>
+</a>
+
+<hr/>
+
+#### Top Skills Card
+<a href="https://github.com/davenwoody" target="blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davenwoody&layout=compact&hide=html" width="320" alt="davenstats"/>
+</a>
+
+<hr/>
+
+#### Supports Me
+<a href="https://sociabuzz.com/dvaxsenzu/tribe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:2px" />
+</a>
+
