@@ -1,6 +1,5 @@
 
-<img src="screenshot/thumb.jpg" alt="logo" width="200" height="auto" />
-<h1> AD Tool - Discord Self Bot </h1>
+# AD Tool - Discord Self Bot
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)
@@ -11,8 +10,8 @@ AD Tool is a powerful self-bot for Discord designed to streamline and automate v
 
 ## Features
 
-- **Automated Message Sending** : Schedule and send messages to specific channels automatically.
-- **User-Friendly Interface** : Intuitive design for seamless usage.
+- **Automated Message Sending**: Schedule and send messages to specific channels automatically.
+- **User-Friendly Interface**: Intuitive design for seamless usage.
 
 ## Requirements
 
@@ -113,10 +112,9 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for more 
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out to me on [Instagram](https://instagram.com/davenjebeh) or via [Email](mailto:davenwoodys@gmail.com).
+If you have any questions or suggestions, feel free to reach out to me on [Twitter](https://twitter.com/username) or via [Email](mailto:email@example.com).
 
 ---
-
  #### GitHub Stats Card
 
 <a href="https://github.com/davenwoody" target="blank">
@@ -136,3 +134,6 @@ If you have any questions or suggestions, feel free to reach out to me on [Insta
 <a href="https://sociabuzz.com/dvaxsenzu/tribe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:2px" />
 </a>
 
+
+
+Thank you for using AD Tool! We hope it enhances your Discord experience!
